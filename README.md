@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcpalumbo" alt="marcpalumbo" /></a> </p>
 
-- 🔭 I’m currently working on [NFL Predictions](https://github.com/marcpalumbo/NFL_Predictions)
+- 🔭 I’m currently working on [S&P500]([https://github.com/marcpalumbo/NFL_Predictions](https://github.com/marcpalumbo/SP500))
 
-- 🌱 I’m currently learning **Machine Learning Libraries**
+- 🌱 I’m currently learning **Scikitlearn**
 
 - 🤝 I’m looking for help with [NFL Franchise Performance](https://public.tableau.com/app/profile/marc.palumbo/viz/NFLFranchisePerformance/FranchiseSuccessDashboard)
 
