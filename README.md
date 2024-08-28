@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcpalumbo" alt="marcpalumbo" /></a> </p>
 
-- 🔭 I’m currently working on [S&P500]([https://github.com/marcpalumbo/NFL_Predictions](https://github.com/marcpalumbo/SP500))
+- 🔭 I’m currently working on [S&P500](https://github.com/marcpalumbo/SP500)
 
 - 🌱 I’m currently learning **Scikitlearn**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcpalumbo.github.io/](https://marcpalumbo.github.io/)
 
-- 💬 Ask me about **Pandas, Matplotlib,Postgres SQL**
+- 💬 Ask me about **Pandas, Matplotlib, Postgres SQL**
 
 - 📫 How to reach me **palumbomarca@gmail.com**
 
